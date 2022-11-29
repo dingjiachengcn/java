@@ -18,7 +18,7 @@ public class demo7 {
         System.out.println(true ^ false);// false
         System.out.println(false ^ true);// false
 
-        System.out.println("-------------------------------");
+        System.out.println("------------------------------");
         int a = 10;
         int b = 20;
         System.out.println(a > 100 && ++b > 10);//false
